@@ -1,0 +1,5 @@
+TMMT Discwheel Classification Dataset/
+TMMT Old Discwheel Datasets/
+training_checkpoints/
+.ipynb_checkpoints/
+*.pth
