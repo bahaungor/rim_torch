@@ -1,5 +1,6 @@
 TMMT Discwheel Classification Dataset/
 TMMT Old Discwheel Datasets/
 training_checkpoints/
+dataset/
 .ipynb_checkpoints/
 *.pth
