@@ -1,6 +1,6 @@
 # Wheel Rim Classification with Transfer Learning
 CNN model that classifies 16 types of wheel rim with 100% accuracy.
-![Image of the project](./images/project-image.png)
+![Image of the project](./images/project-image.PNG)
 
 # Table Of Content
 - [Introduction](#introduction)
@@ -112,9 +112,9 @@ Please note that this repository is not intended for use as a standalone program
 
 # Model Performance
 Model achieved 100% accuracy classifying all 16 types of wheel rims.
-![Image of the project](./images/project-image-2.png)
-![Image of the project](./images/project-image-3.png)
-![Image of the project](./images/project-image-4.png)
+![Image of the project](./images/project-image-2.PNG)
+![Image of the project](./images/project-image-3.PNG)
+![Image of the project](./images/project-image-4.PNG)
 
 # Uninstallation / Removal
 If you have followed one of the installation steps above, you can completely remove this project from your computer without leaving any trace.
