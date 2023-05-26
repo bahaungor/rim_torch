@@ -18,7 +18,7 @@ This repository contains the actual training code (rim classification w Torch.ip
 
 Please note that this code was developed for Toyota and is not intended for commercial use or distribution. The purpose of this project is to showcase my image processing, augmentation, and modeling skills to potential employers.
 
-NOT: Original dataset of the project is the property of Toyota I am not allowed to share dataset as it is the property of Toyota and sharing this confidential dataset is strictly prohibited. Therefore, you will get error after downloading this project & running it directly since dataset is missing. However, you may use this project as a reference for similar projects.
+**NOT:** Original dataset of the project is the property of Toyota and sharing this confidential dataset is strictly prohibited. Therefore, you will get error after downloading this project & running it directly since dataset is missing. However, you may use this project as a reference for similar projects.
 
 # Languages and Tools
 <p align="left">
